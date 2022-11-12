@@ -23,7 +23,7 @@ public class WifiDiagnosis {
 
 
         //Prompted the user for the first step if they have connectivity
-        System.out.println("If you have a problem with internet connectivity, this WiFi Diagnosis might work.");
+        System.out.println("Ifo you have a problem with internet connectivity, this WiFi Diagnosis might work.");
         System.out.println("First step: reboot your computer");
         System.out.println("Are you able to connect with the internet? (yes or no)");
         //Created a scanner variable for the user to enter the answer
